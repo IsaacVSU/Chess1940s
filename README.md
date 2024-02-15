@@ -10,3 +10,4 @@ This was original chess, when the queen was much weaker in the game. En passant 
  - To make it better (worse) when you take the Queen, you get to move again
  - Queen can only move 1 space diagnolly like traditional chess before the 1300s
  - The Pawns can only become Queens 
+ - Queen's Belt: Sometimes the queen has to disaplin her kids, so to do so she uses her belt to lasso the a pawn back to their original position, however the pawn can't be used for 2 turns because they have been spanked by momma Queen and their bousom stings. OUCH!
