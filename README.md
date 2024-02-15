@@ -1,4 +1,4 @@
-# SexistChess
+# Chess1940s
 This was original chess, when the queen was much weaker in the game. En passant didn't exist nor did Castling. However, just for the sake of having them, lets add them anyway. Basically modern chess but the queen changes.
 
 # DISCLAIMER 
@@ -20,3 +20,24 @@ This was original chess, when the queen was much weaker in the game. En passant 
     - When Horny, if the Queen gets near your King, then a Pawn is spawned in place of a deceased one (Easter Egg: if she has a kids with the opponent, then it's the opponent's colored Pawn).
  - Gold Digger: If the the opponent's King moves next to your Queen and they have more pieces/ pieces of value, then the your Queen will switch sides.
  - Bad Driving: When you move your Queen, there is a 1% chance the Queen will move in a spot you didn't choose. 
+
+
+
+
+
+# COMPILiNG AND LINKING SYNTAX
+```
+gcc -c mysource.c -o mysource.o
+```
+
+```
+gcc -c main.c -o main.o
+```
+
+```
+gcc mysource.o main.o -o myprogram
+```
+Do them together
+```
+gcc -o main main.c source.c
+```

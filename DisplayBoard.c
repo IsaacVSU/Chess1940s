@@ -1,5 +1,9 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include "headers/time.h"
+
+
+
 
 int main() {
     char* timeNow = GetTimeNow();
