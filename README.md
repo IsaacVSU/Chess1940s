@@ -2,7 +2,7 @@
 This was original chess, when the queen was much weaker in the game. En passant didn't exist nor did Castling. However, just for the sake of having them, lets add them anyway. Basically modern chess but the queen changes.
 
 # DISCLAIMER 
- “misogamy is bad and we do not endorse it/ support it, however we find it hilarious" ~ 2 guys
+ “misogyny is horrible and we do not endorse it/ support it, however we find it hilarious" ~ 2 guys
 
  # Ideas:
  - Queen's Curfew: If you play the game past 8pm the queen can’t move
